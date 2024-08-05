@@ -2,16 +2,18 @@
 
 Welcome to the SpringBoot repository! This repository is dedicated to providing comprehensive and organized Spring Boot examples and tutorials. I will be uploading various topics and practical code examples here.
 
+![317776](https://github.com/user-attachments/assets/fe571afc-0372-4137-a9cb-663f9aacaa1c)
+
 ## Repository Structure
 
 The repository is structured into different folders based on Spring Boot topics and projects. Each folder contains code examples and explanations related to specific concepts. The main topics covered include:
 
-- **Database Configuration**: Examples of how to set up and configure databases with Spring Boot.
-- **CRUD Operations**: Implementation of basic Create, Read, Update, and Delete operations.
-- **Security**: Integration of security features like authentication and authorization.
-- **REST APIs**: Building and consuming RESTful web services.
-- **Testing**: Writing and running tests for Spring Boot applications.
-- **Projects**: A collection of both basic and major projects for hands-on practice, ranging from simple applications to more complex systems.
+- **⚡Database Configuration**: Examples of how to set up and configure databases with Spring Boot.
+- **⚡CRUD Operations**: Implementation of basic Create, Read, Update, and Delete operations.
+- **⚡Security**: Integration of security features like authentication and authorization.
+- **⚡REST APIs**: Building and consuming RESTful web services.
+- **⚡Testing**: Writing and running tests for Spring Boot applications.
+- **⚡Projects**: A collection of both basic and major projects for hands-on practice, ranging from simple applications to more complex systems.
 
 ## Getting Started
 
@@ -44,7 +46,7 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 ## Contact
 
-For any questions or suggestions, please reach out to me via [email](mailto:hemantgarg218@gmail.com) or [GitHub](https://github.com/hemantgarg1452).
+👉For any questions or suggestions, please reach out to me via [email](mailto:hemantgarg218@gmail.com) or [GitHub](https://github.com/hemantgarg1452).
 
 ---
 
