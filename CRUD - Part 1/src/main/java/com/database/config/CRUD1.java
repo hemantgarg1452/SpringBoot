@@ -48,7 +48,7 @@ public class CRUD1 {
 		//----------------------Create object for Customer---------------------------
 
 		//Saving sinle object
-		//Customer Invoice = task.save(customer1);
+		Customer Invoice = task.save(customer1);
 
 		//Saving Multiple objects using list
 		List<Customer>resultSet = List.of(customer1, customer2, customer3);
@@ -77,14 +77,14 @@ public class CRUD1 {
 
 		//----------------------Delete object in Customer table---------------------------
 		//Delete by id
-//		repo.deleteById(214);
-//		System.out.println("Deleted Sucessfully!");
-//
-//		//Delete all using iterable
-//		Iterable<Customer> iterable =  repo.findAll();
-//		iterable.forEach(System.out::println);
-//
-//		repo.deleteAll(iterable);
+		repo.deleteById(214);
+		System.out.println("Deleted Sucessfully!");
+
+		//Delete all using iterable
+		Iterable<Customer> iterable =  repo.findAll();
+		iterable.forEach(System.out::println);
+
+		repo.deleteAll(iterable);
 
 	}
 
